@@ -1,0 +1,10 @@
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Interfaces.exe.config
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Interfaces.exe
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Entity.exe
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Entity.pdb
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\bin\Debug\Entity.exe.config
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\obj\Debug\Interfaces.exe
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Interfaces\obj\Debug\Interfaces.pdb

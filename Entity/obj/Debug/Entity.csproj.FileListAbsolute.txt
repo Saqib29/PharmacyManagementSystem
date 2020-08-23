@@ -1,0 +1,6 @@
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\bin\Debug\Entity.exe.config
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\bin\Debug\Entity.exe
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.exe
+D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.pdb
