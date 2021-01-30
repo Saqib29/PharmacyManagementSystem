@@ -4,3 +4,10 @@ D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementS
 D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
 D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.exe
 D:\AIUB\semester 8\C#\final\project\PharmacyManagementSystem\PharmacyManagementSystem\Entity\obj\Debug\Entity.pdb
+D:\MyProjects\PharmacyManagementSystem\Entity\bin\Debug\Entity.exe.config
+D:\MyProjects\PharmacyManagementSystem\Entity\bin\Debug\Entity.exe
+D:\MyProjects\PharmacyManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\MyProjects\PharmacyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\MyProjects\PharmacyManagementSystem\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\MyProjects\PharmacyManagementSystem\Entity\obj\Debug\Entity.exe
+D:\MyProjects\PharmacyManagementSystem\Entity\obj\Debug\Entity.pdb
